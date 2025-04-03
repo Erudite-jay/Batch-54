@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
 
     'Auth_app',
+    'Forms_app',
 
 
 ]
